@@ -39,5 +39,5 @@ build/
 .DS_Store
 
 ### Target and .idea to exclude
-target
-.idea
+target/
+.idea/
